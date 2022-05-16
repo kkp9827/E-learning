@@ -62,11 +62,22 @@ Query Section
 
 ![p22](https://user-images.githubusercontent.com/102183253/168645518-c665567e-4e12-4c8b-a5a4-aba8924dd870.png)
 
-## Project Credit
-   Krishna Kant Pandey
- 
-   Backend developer and Frontend design
-
+<td>
+  <div align="center"> 
+     
+  <strong>Krishna Kant Pandey<strong></div>
+<p align="center" dir="auto">
+</p>
+<p align="center" dir="auto">
+<a href="https://github.com/kkp9827"><img src="https://camo.githubusercontent.com/12ee250c22c3b4777096230652716f930752fd04f61915e1dda295abd153fea0/687474703a2f2f7777772e69636f6e6e696e6a612e636f6d2f66696c65732f3234312f3832352f3231312f726f756e642d636f6c6c61626f726174696f6e2d736f6369616c2d6769746875622d636f64652d636972636c652d6e6574776f726b2d69636f6e2e737667" width="36" height="36" data-canonical-src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/krishna-kant-pandey-6520ba22a/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/a7ecdd15da1b24ad04f1f667c2ca35753ee30af353e7b2d4e85599e89dfa4489/687474703a2f2f7777772e69636f6e6e696e6a612e636f6d2f66696c65732f3836332f3630372f3735312f6e6574776f726b2d6c696e6b6564696e2d736f6369616c2d636f6e6e656374696f6e2d63697263756c61722d636972636c652d6d656469612d69636f6e2e737667" width="36" height="36" data-canonical-src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" style="max-width: 100%;">
+</a>
+</p>
+ <div align="center">
+ <strong>Backend Developer and Frontend Design<strong>
+</strong></strong></td>
+   </div>
 
 
 
