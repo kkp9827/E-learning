@@ -61,10 +61,11 @@ Admin Page
 Query Section
 
 ![p22](https://user-images.githubusercontent.com/102183253/168645518-c665567e-4e12-4c8b-a5a4-aba8924dd870.png)
-
+<div align="center">
+<table border=1>
 <td>
   <div align="center"> 
-     
+   <table border=1>   
   <strong>Krishna Kant Pandey<strong></div>
 <p align="center" dir="auto">
 </p>
@@ -78,7 +79,7 @@ Query Section
  <strong>Backend Developer and Frontend Design<strong>
 </strong></strong></td>
    </div>
-
-
+    </table>
+  </div>
 
 
