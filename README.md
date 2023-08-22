@@ -12,6 +12,7 @@ HTML, CSS
 , Java
 , JSP
 , Bootstrap
+, JDBC
 , MySQL
 
 ## Database
